@@ -15,7 +15,7 @@ body{
 }
 @media(max-width:900px){
     body{
-        padding: 30px;
+        padding: 20px;
     }
 }
 /* container */
@@ -29,7 +29,7 @@ body{
 }
 @media (max-width:900px){
     .container{
-        padding: 30px;
+        padding: 15px;
         border-radius: 18px;
     }
 }
